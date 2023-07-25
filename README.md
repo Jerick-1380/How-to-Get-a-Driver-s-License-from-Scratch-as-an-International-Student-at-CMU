@@ -9,7 +9,7 @@ So, you are an international student, you want to drive in Pittsburgh, or you ju
 <img src="https://media.istockphoto.com/id/1316478027/vector/a-hand-presents-an-american-social-security-card.jpg?s=612x612&w=0&k=20&c=TRJ1_BQOx4RuKufqTL2j7R458VfTwq7axtHGIIBf9Tc=" width="400" height="450">
 
 
-In order to first apply for a permit, you either need an SSN or an SSN denial letter. The denial letter is basically a letter to request to prove to the DMV that you can't get an SSN.  There is an entire guide [here](https://www.dmv.pa.gov/Driver-Services/Driver-Licensing/Pages/Customers-Who-Do-Not-Have-a-Social-Security-Card.aspx) to applying for the denial letter, but honestly, if you aren't in a rush, I would just recommend getting an SSN, since it will just make life a lot easier for you in the future. In fact I also wrote another [article](https://jerick-1380.github.io/How-to-Get-an-SSN-as-an-International-Student-at-CMU/) about getting an SSN if you are interested.
+In order to first apply for a permit, you either need an SSN or an SSN denial letter. The denial letter is basically a letter to prove to the DMV that you can't get an SSN.  There is an entire guide [here](https://www.dmv.pa.gov/Driver-Services/Driver-Licensing/Pages/Customers-Who-Do-Not-Have-a-Social-Security-Card.aspx) to applying for the denial letter, but honestly, if you aren't in a rush, I would just recommend getting an SSN, since it will just make life a lot easier for you in the future. In fact I also wrote another [article](https://jerick-1380.github.io/How-to-Get-an-SSN-as-an-International-Student-at-CMU/) about getting an SSN if you are interested.
 
 
 ## Step 2: Completing the DL-180
@@ -44,9 +44,13 @@ Literally Google "PennDot Knowledge Test" and like 100 results will come up. Jus
 You should have these things in your hand:
 
 1) Your passport
+
 2) Your F-1
+
 3) Your SSN/SSN Denial Letter
+  
 4) Your DL-180 fully completed
+
 5) 2 Proofs of Residency
 
 and you should be good to go! Go to the PennDOT Driver License Center (708 Smithfield St, the 61s and 71s take you there), and then wait in line. They will look at your documents, give you a quick eye test, make you take the test, take your photo, and then you will get your permit on the spot!
@@ -56,7 +60,7 @@ and you should be good to go! Go to the PennDOT Driver License Center (708 Smith
 <img src="https://static.vecteezy.com/system/resources/previews/015/618/042/original/driving-school-with-education-process-of-car-training-and-learning-to-drive-to-get-drivers-license-in-flat-cartoon-hand-drawn-templates-illustration-vector.jpg" width="400" height="300">
 
 
-If you already know how to drive, you can skip this step. I mean, it's still good to practice once or twice, since the roads in Pittsburgh are pretty hilly. If you don't know how to drive, HIGHLY reccomend going to a driving school. You could learn from your friend(s), but like, the driving schools know what techniques to use in order to pass. I went to the [Cindy Cohen Driving School] (https://drivingbuythebest.com/) cause I got to take 3 lessons, and then directly take the test. It's a bit expensive, a super long wait for each lesson, but I thought it was pretty worth it.
+If you already know how to drive, you can skip this step. I mean, it's still good to practice once or twice, since the roads in Pittsburgh are pretty hilly. If you don't know how to drive, HIGHLY reccomend going to a driving school. You could learn from your friend(s), but like, the driving schools know what techniques to use in order to pass. I went to the [Cindy Cohen Driving School](https://drivingbuythebest.com) cause I got to take 3 lessons, and then directly take the test. It's a bit expensive, a super long wait for each lesson, but I thought it was pretty worth it.
 
 ## Step 7: Take the Driving Test
 
